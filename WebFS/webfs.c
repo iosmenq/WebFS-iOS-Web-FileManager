@@ -1991,3 +1991,11 @@ int main(int argc, char **argv) {
     return 0;
 
 }
+/*
+* SUPPORTED ARCH arm64
+* TESTED ON PALERA1N ROOTFUL JAILBREAK
+* PALERA1N WEBSITE: https://palera.in
+* More Tools: https://github.com/iosmenq
+* Contact Me: magmalya.project@gmail.com
+*** END ***
+
