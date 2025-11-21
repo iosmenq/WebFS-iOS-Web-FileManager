@@ -15,7 +15,7 @@
  *
  * WARNING: Running as root exposes the filesystem. Use on trusted networks.
  *
- * Version:0.549 --Alpha
+ * Version: 0.549 --Alpha
  */
 
 #define _POSIX_C_SOURCE 200809L
@@ -1989,4 +1989,5 @@ int main(int argc, char **argv) {
     if (g_root[0] == 0) strcpy(g_root, "/");
     run_server();
     return 0;
+
 }
