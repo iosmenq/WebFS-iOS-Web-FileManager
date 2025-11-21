@@ -5,7 +5,6 @@
  * - Single-file C program (POSIX sockets + pthread)
  * - Mini white HTML UI embedded
  * - Actions: browse, download, upload (PUT), mkdir, delete
- * - Optional Basic Auth: -u user -P pass
  *
  * Build:
  *   clang -O2 -Wall -pthread -o webfs webfs.c
@@ -1994,3 +1993,4 @@ int main(int argc, char **argv) {
 /*
 *** END ***
 */
+
