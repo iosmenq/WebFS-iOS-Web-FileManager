@@ -1,6 +1,6 @@
 /*
  * webfs.c
- * Codded by iosmen (c) 2025
+ * Coded by iosmen (c) 2025
  * WebFS - Minimal HTTP file manager for jailbroken iOS
  * - Single-file C program (POSIX sockets + pthread)
  * - Mini white HTML UI embedded
@@ -1993,4 +1993,5 @@ int main(int argc, char **argv) {
 /*
 *** END ***
 */
+
 
